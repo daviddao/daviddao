@@ -1,7 +1,7 @@
 ### Hi, I'm David 👋
 
 
-I'm a naturalist and computer scientist. 
+I'm a naturalist and computer scientist. I grew up in Germany's beautiful [Black Forest](https://en.wikipedia.org/wiki/Black_Forest) as the son of [Hoa](https://en.wikipedia.org/wiki/Hoa_people) refugees.
 
 - 🛰 I'm the founder of [GainForest](https://gainforest.app/#/), a decentralized green fund using machine learning to fight deforestation.
 - 🔭 I'm also a PhD student at [ETH Zurich](https://ethz.ch) working on ecological machine learning and ethical data markets.
