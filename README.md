@@ -6,10 +6,27 @@ I'm an artificial intelligence researcher and conservationist. I grew up in Germ
 - 🔭 PhD student at [ETH Zurich](https://ethz.ch) working on ecological machine learning and ethical data markets.
 - 🌱 My goal is to save our planet with crazy technology 🌍
 
-Get in touch via [twitter](https://twitter.com/dwddao)!
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddao&count_private=true&layout=compact&show_icons=true&hide=prs,contribs&cache_seconds=86400&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&custom_title=🧘🏻‍♂️ Github Zen" />
+</a>
+<-🔗->
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddao&layout=compact&cache_seconds=86400&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&langs_count=6&hide=html,css,Tex,jupyter%20notebook&hide_title=true" />
+</a>
+
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/dwddao?label=Follow&style=social)](https://twitter.com/dwddao)
+Get in touch via [twitter](https://twitter.com/dwddao)!
+<a href="ttps://twitter.com/dwddao">
+  <img align="center" src="https://img.shields.io/twitter/follow/dwddao?label=Follow&style=social" />
+</a>
 
-[![Stackoverflow](https://stackexchange.com/users/flair/5678345.png)](https://stackexchange.com/users/5678345/david-dao)
+
+  
+<a href="https://stackexchange.com/users/5678345/david-dao">
+  <img align="center" src="https://stackexchange.com/users/flair/5678345.png" />
+</a>
 
