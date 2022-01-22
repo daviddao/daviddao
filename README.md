@@ -20,9 +20,6 @@ I'm an artificial intelligence researcher and conservationist. I grew up in Germ
   <img align="center" src="https://img.shields.io/twitter/follow/dwddao?label=@dwddao&style=social" />
 </a>
 
-<br />
-<br />
-
 <a href="https://twitter.com/dwddao">
   <img align="right" alt="David Dao | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
