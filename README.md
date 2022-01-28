@@ -4,7 +4,7 @@ I'm an artificial intelligence researcher and conservationist. I grew up in Germ
 
 - 🛰 Founder of [GainForest](https://gainforest.net/#/), a decentralized green fund using machine learning to fight deforestation.
 - 🔭 PhD student at [ETH Zurich](https://ethz.ch) working on ecological machine learning and ethical data markets.
-- 🌱 My goal is to save our planet with crazy technology 🌍
+- 🌱 My goal is to save our planet with crazy (but trustworthy) technology 🌍
 
 ---
 
