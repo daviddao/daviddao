@@ -8,10 +8,6 @@ I'm an artificial intelligence researcher and conservationist. I grew up in Germ
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddao&count_private=true&layout=compact&show_icons=true&hide=prs,contribs&cache_seconds=86400&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&custom_title=🧘🏻‍♂️ Github Zen" />
-
----
-
 <a href="https://stackexchange.com/users/5678345/david-dao">
   <img align="center" src="https://stackexchange.com/users/flair/5678345.png" />
 </a>
