@@ -12,7 +12,7 @@ I'm an artificial intelligence researcher and conservationist. I grew up in Germ
   <img align="center" src="https://stackexchange.com/users/flair/5678345.png" />
 </a>
 
-<a href="ttps://twitter.com/dwddao">
+<a href="https://twitter.com/dwddao">
   <img align="center" src="https://img.shields.io/twitter/follow/dwddao?label=@dwddao&style=social" />
 </a>
 
