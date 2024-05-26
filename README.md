@@ -2,7 +2,7 @@
 
 I'm a machine learning researcher and nature conservationist. I grew up in Germany's beautiful [Black Forest](https://en.wikipedia.org/wiki/Black_Forest) as the son of [Hoa](https://en.wikipedia.org/wiki/Hoa_people) [boat people](https://en.wikipedia.org/wiki/Vietnamese_boat_people) refugees. I build systems that tackle climate change and empower local and indigenous communities through algorithmic data marketplaces.
 
-- 🛰 Founder of [GainForest](https://gainforest.earth/#/), a decentralized green fund using machine learning to fight deforestation.
+- 🛰 Co-Founder of [GainForest](https://gainforest.earth/#/), a decentralized green fund using machine learning to fight deforestation.
 - 🔭 Researcher at [ETH Zurich](https://ethz.ch) working on ecological machine learning and ethical data markets.
 - 🌱 My goal is to save our planet with crazy technology 🌍
 
