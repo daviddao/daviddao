@@ -3,7 +3,7 @@
 I'm an AI researcher and nature explorer. I grew up in Germany's beautiful [Black Forest](https://en.wikipedia.org/wiki/Black_Forest) as the son of [Hoa](https://en.wikipedia.org/wiki/Hoa_people) [boat people](https://en.wikipedia.org/wiki/Vietnamese_boat_people) refugees. I build systems that tackle climate change and empower local and Indigenous communities through equitable AI. I co-initiated algorithmic data valuation (a key part of data marketplaces) and host a list of awful AI applications.
 
 - 🛰 Chief Scientist of [GainForest](https://gainforest.earth/#/), a decentralized science non-profit tackling deforestation
-- 📈 Chief Scientist of [Counterfactual Labs](https://counterfactually.org), a decentralized science lab scaling data-driven impact evaluation
+- 📈 Researcher at [Counterfactual Labs](https://counterfactually.org), a decentralized science lab scaling data-driven impact evaluation
 - 🏅✖️ XPRIZE Rainforest Medalist, co-leading [a team of 60 researchers](https://biodivx.org) into the Amazon rainforest mapping 100ha in 24 hours
 - 🌱 My goal is to save our planet with equitable technology 🌍
 
