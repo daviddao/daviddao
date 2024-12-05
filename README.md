@@ -17,5 +17,3 @@ I'm an AI researcher, conservationist and science explorer. I grew up in Germany
 <a href="https://twitter.com/dwddao">
   <img align="right" alt="David Dao | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
-![HeroImg CFL](https://github.com/user-attachments/assets/dd9c3866-63f6-4af2-986b-fa986a39bda7)
