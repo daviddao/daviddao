@@ -5,7 +5,7 @@ I'm an AI researcher, conservationist and science explorer. I grew up in Germany
 - 🛰 Chief Scientist of [GainForest](https://gainforest.earth/#/), a decentralized science non-profit tackling deforestation
 - 📈 Researcher at [eval.science](https://eval.science), a decentralized science lab scaling evidence-based impact evaluation
 - 👨‍🔬 PhD in CS from [ETH Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2023/07/david-dao.html) (h-index 15, 1500+ citations)
-- 🏅✖️ XPRIZE Rainforest Medalist, co-leading [a team of 60 researchers](https://biodivx.org) into the Amazon rainforest mapping 100 ha in 24 hours
+- 🏅✖️ XPRIZE Rainforest Medalist, co-leading [a team of 60 researchers](https://biodivx.org) into the Amazon rainforest mapping it in 24 hours
 - 🌱 My goal is to decentralize science for the global majority 🌍
 
 ---
