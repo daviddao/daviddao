@@ -8,6 +8,8 @@ I'm an AI researcher, conservationist and science explorer. I grew up in Germany
 - 🏅✖️ XPRIZE Rainforest Medalist, co-leading [a team of 60 researchers](https://biodivx.org) into the Amazon rainforest mapping it in 24 hours
 - 🌱 My goal is to decentralize science for the global majority 🌍
 
+Fun fact: My past self made it to the [AUTHORS](https://github.com/tensorflow/models/blob/master/AUTHORS) of Tensorflow Models
+
 ---
 
 <a href="https://stackexchange.com/users/5678345/david-dao">
