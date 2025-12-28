@@ -2,10 +2,10 @@
 
 I'm an AI researcher, conservationist and science explorer. I grew up in Germany's [Black Forest](https://en.wikipedia.org/wiki/Black_Forest) as the son of [Hoa](https://en.wikipedia.org/wiki/Hoa_people) [boat people](https://en.wikipedia.org/wiki/Vietnamese_boat_people) refugees. I build systems that tackle climate change and support local and Indigenous communities through equitable AI. I co-initiated algorithmic data valuation (a key part of data marketplaces) and host a list of awful AI applications. I completed my postdoctoral research in environmental and computer science at ETH Zurich and conducted research at MIT, UC Berkeley, and Stanford. I hold a doctorate in computer science from [ETH Zurich](https://ethambassadors.ethz.ch/2025/01/07/what-connects-ai-albert-einstein-and-roald-dahl-david-dao/) (h-index 15, 1650+ citations).
 
-- 🛰 Chief Scientist of [GainForest](https://gainforest.earth/#/), a decentralized science non-profit tackling deforestation
-- 📈 Chief Scientist of [Simocracy](https://simocracy.org), a public interest technology company building AI to enhance democracy
+- 🛰 Chief Scientist at [GainForest](https://gainforest.earth/#/), a decentralized science non-profit tackling deforestation
+- 📈 Economics & Governance Co-Lead at [Protocol Labs](https://www.protocol.ai/)
 - 🏅✖️ XPRIZE Rainforest Winner, co-leading [a team of 60 researchers](https://biodivx.org) into the Amazon rainforest mapping it in 24 hours
-- 🌱 My goal is to decentralize science for the global majority 🌍
+- 🌱 My goal is to create new economic systems for underserved communities 🌍
 
 Fun fact: My past self made it to the [AUTHORS](https://github.com/tensorflow/models/blob/master/AUTHORS) of Tensorflow Models
 
